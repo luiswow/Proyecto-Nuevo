@@ -10,7 +10,7 @@ import javax.persistence.Table;
 import javax.validation.constraints.NotEmpty;
 
 @Entity
-@Table(name="clientes")
+@Table(name="clientesss")
 public class Cliente implements Serializable {
 
 	private static final long serialVersionUID = 1L;
